@@ -1,0 +1,54 @@
+.order_paper {
+  padding: 97px 0 56px;
+  background: #fff;
+}
+.order_paper-title {
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  margin: 0 0 24px;
+}
+.event-heading p {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 1.85;
+  font-weight: 400;
+  color: #76777a;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+}
+
+.order_paper_date {
+  width: 90px;
+  background: #008d81;
+  float: left;
+  text-align: center;
+  border-radius: 2px;
+}
+.order_paper-date-wrap {
+  border: 1px dashed white;
+  margin: 8px 8px;
+  padding: 4px 0;
+}
+.order_paper-date-wrap p {
+  font-size: 23px;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+}
+.order_paper-date-wrap span {
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+}
+.event-heading {
+  margin-left: 115px;
+}
+.event-heading h3 {
+  font-weight: 700;
+  margin: 0 0 24px;
+}
+.event-heading p {
+  color: #2d2d2d;
+  line-height: 1.8;
+}

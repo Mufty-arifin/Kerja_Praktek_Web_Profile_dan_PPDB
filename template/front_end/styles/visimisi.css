@@ -1,0 +1,19 @@
+.about {
+  padding: 97px 0 56px;
+  background: #fff;
+}
+.about h1 {
+  font-family: "Roboto Slab", serif;
+  text-align: center;
+}
+.about hr {
+  border-top: 3px solid #008d81;
+}
+.about p {
+  font: 400 20px/1.85 "Times New Roman", Times, serif;
+  line-height: 1.85;
+  color: #76777a;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+}
